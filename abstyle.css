@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(188, 212, 209);
+
+ }
+
+ .treTable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ table.toptekst { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px; 
+ 	color: rgb(74, 113, 2);
+	border-width: 0; 
+    width : 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: unset;
+ }
+
+
+ .center{
+    margin-top: 30px;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+
+.cvTable,tableCV{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+td.td1{
+    display: flex;
+    justify-content: left;
+    margin: 18px 0px 10px 12px;
+
+ }
+
+
+ td.td2{
+    display: flex;
+    justify-content: left;
+    margin: 0px 0px 20px 10px;
+    text-decoration: underline;
+ }
+
+ td.tdSection1{
+    color: rgb(0, 0, 0);
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 30px;
+
+
+ }
+
+ td.tdSection2{
+    color: rgb(0, 0, 0);
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 30px;
+    padding-left: 30px;
+
+ }
+
+ td.tdSection3{
+     color: rgb(0, 0, 0);
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 30px;
+
+ }
+
+
+.classP{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    color: unset;
+    text-decoration: unset;
+    cursor: pointer;
+}
+a:hover{
+    color: rgb(7, 81, 192);
+    text-decoration-line: underline;
+}
+
+
+
+ 
+ div.center { text-align: center; 
